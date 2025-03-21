@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
 h1 a, h2 a {
     color: #C25100;
-    font-family: 'Lobster';
+    font-family: "Ubuntu Sans";
 }
 
 body {
